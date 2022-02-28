@@ -1,5 +1,4 @@
 # vuex
-
 ## Project setup
 ```
 npm install

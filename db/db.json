@@ -1,0 +1,14 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "title": "XBOX-ONE",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "title": "PS4-SLIM",
+      "price": 2200
+    }
+  ]
+  }
